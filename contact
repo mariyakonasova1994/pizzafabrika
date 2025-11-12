@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Наш адрес</h1> 
+    <h4>г.Санкт-Петербург, ул.Восстания 4</h4>
+    <img src="https://image2.yell.ru/pr-cache/McUWZVDuSZR0sYfwaQzU_Q==/,/H0_Ibn18YkUyqOMtkWZ9q88o8TDzFqAOmoUBtasZkBwaQi7sMxCXA8OIGM0yZRUyO0uRuWmh81_cpLKGby_68ejpf990-yK1QLGarZAHd5_AOw2nBmiHwWnorr568yqyDQkQKzspiT7fN2LsoxM3cNOFjRDKkicj" height="100">
+
+    <h4>Номера телефонов для заказа</h4>
+     <ol>
+        <li>20-46-80</li>
+        <li>30-17-96</li>
+        <li>44-20-12</li>
+    </ol>
+<button> <li><a href="menu.html">Вернуться к меню</a></li></button>
+<button> <li><a href="index.html">На главную</a></li></button>
+</body>
+</html>
